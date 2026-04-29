@@ -9,41 +9,63 @@
 </head>
 
 <body>
+<style>
 
-  <div id="3d-graph"></div>
-<div class="background">
-  <div id="tint" class="transbox blue"></div>
+:root {
+  --tp-base-background-color: hsla(260, 42%, 10%, 0.80);
+  --tp-base-shadow-color: hsla(0, 0%, 0%, 0.20);
+  --tp-button-background-color: hsla(0, 0%, 80%, 1.00);
+  --tp-button-background-color-active: hsla(0, 0%, 100%, 1.00);
+  --tp-button-background-color-focus: hsla(0, 0%, 95%, 1.00);
+  --tp-button-background-color-hover: hsla(0, 0%, 85%, 1.00);
+  --tp-button-foreground-color: hsla(0, 0%, 0%, 0.80);
+  --tp-container-background-color: hsla(300, 19%, 9%, 0.113);
+  --tp-container-background-color-active: hsla(0, 0%, 0%, 0.60);
+  --tp-container-background-color-focus: hsla(0, 0%, 0%, 0.50);
+  --tp-container-background-color-hover: hsla(0, 0%, 0%, 0.40);
+  --tp-container-foreground-color: hsla(28, 88%, 47%, 0.49);
+  --tp-groove-foreground-color: hsla(0, 0%, 0%, 0.20);
+  --tp-input-background-color: hsla(0, 0%, 0%, 0.30);
+  --tp-input-background-color-active: hsla(0, 0%, 0%, 0.60);
+  --tp-input-background-color-focus: hsla(0, 0%, 0%, 0.50);
+  --tp-input-background-color-hover: hsla(0, 0%, 0%, 0.40);
+  --tp-input-foreground-color: hsla(0, 0%, 100%, 0.50);
+  --tp-label-foreground-color:hsla(286, 50%, 63%, 0.50);
+  --tp-monitor-background-color: hsla(0, 0%, 0%, 0.30);
+  --tp-monitor-foreground-color: hsla(0, 0%, 100%, 0.30);
+}
+</style>
+</style>
+<div class="label">
 </div>
+  <div id="3d-graph"></div>
 
 
   <script type="module">
     import ForceGraph3D from 'https://esm.sh/3d-force-graph';
     import SpriteText from "https://esm.sh/three-spritetext";
     import * as THREE from 'https://esm.sh/three';
+    import {Pane} from 'https://cdn.jsdelivr.net/npm/tweakpane@4.0.5/dist/tweakpane.min.js';
 
 const elem = document.getElementById('3d-graph')
-//const imgs = ['discipline.png', 'hashtag.png', 'structure.png'];
-
 const Graph = new ForceGraph3D(elem)
-       
+      .jsonUrl('../datasets/vis.json') 
       .linkDirectionalParticles(1)
       .linkDirectionalParticleWidth(0.4)
       .linkDirectionalParticleSpeed(0.002)
-    
-.onNodeClick(node => window.open(node.link))
-   .linkOpacity(0.1)
- //  .linkColor(link => link.color ? 'darkorange' : 'red' )
-   .jsonUrl('../datasets/vis.json')
- //  .nodeLabel(node => `${node.source}`)
- //.nodeLabel('text')
-    .nodeLabel(node => `${node.name} (${node.category})`)
-    
-       //   .onNodeHover(node => `${node.emitparticles});
-      
-       
-  // .nodeLabel(node => `${node.user}: ${node.description}`)
-   .nodeResolution([10])
-   .onNodeClick(node => {
+      .linkOpacity(0.1)
+    //.linkColor(link => link.color ? 'darkorange' : 'red' )
+    //.nodeLabel(node => `${node.source}`)
+    //.nodeLabel('text')
+    //.onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));
+    //.onNodeClick(node => window.open(`${node.link}`, null))
+    //.nodeLabel(node => `${node.typeid}: ${node.label}`)
+    //.nodeLabel(node => `${node.user}: ${node.description}`)
+
+      .onNodeClick(node => window.open(node.link))
+      .nodeResolution([10])
+
+      .onNodeClick(node => {
       // Aim at node from outside it
       const distance = 80;
       const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
@@ -51,7 +73,6 @@ const Graph = new ForceGraph3D(elem)
          ? {x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio}
          : {x: 0, y: 0, z: distance}; // special case if node is in (0,0,0)
 
-         
       Graph.cameraPosition(
          newPos, // new position
          node, // lookAt ({ x, y, z })
@@ -292,11 +313,53 @@ const Graph = new ForceGraph3D(elem)
       }
       textSprite.textHeight = 4;
       return textSprite;
-   });
+   })
 
 
 Graph.d3Force('charge').strength(-300);
 
+
+const PARAMS = {
+  Select: '',
+};
+
+const pane = new Pane({
+  title: 'Parameters',
+});
+
+const f1 = pane.addFolder({
+  title: 'Filter by communities',
+  expanded: false,   // optional
+});
+
+const f2 = pane.addFolder({
+  title: 'Filter by structures',
+  expanded: false,   // optional
+});
+f1.addBinding(PARAMS, 'Select', {
+  options: {
+    _none_: '',
+    Social_sciences: 'Social_sciences',
+    Natural_sciences: 'Natural_sciences',
+    Law_governance_and_education: 'Natural_sciences',
+    Transfer_Incubator: 'Natural_sciences',
+    Applied_research: 'light-theme.json',
+  },
+});
+
+f2.addBinding(PARAMS, 'Select', {
+  options: {
+     _none_: '',
+    Just_Transition_Center: 'Just_Transition_Center',
+    Agentur_für_Aufbruch: 'Natural_sciences',
+    ZIRS: 'Natural_sciences',
+    Open_Knowledge_Index: 'C_Pillar_Law_Governance_and_Education',
+  },
+});
+
+
    </script>
+
+   
 </body>
 </html>
