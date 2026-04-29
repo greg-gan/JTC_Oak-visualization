@@ -16,7 +16,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -35,12 +35,12 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "Environmental history",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -1826.8758544921875,
       "y": -1086.5830078125,
       "id": "Environmental history",
@@ -54,7 +54,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -73,7 +73,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -92,7 +92,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -130,7 +130,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "label": "continuing education",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -956.2724609375,
       "y": -1313.5419921875,
       "id": "continuing education",
@@ -206,7 +206,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.218023300170898
     },
     {
@@ -225,7 +225,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -339,12 +339,12 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
       "label": "Economics",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -1333.5604248046875,
       "y": 802.1619262695312,
       "id": "Economics",
@@ -358,7 +358,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "9.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.392441749572754
     },
     {
@@ -415,7 +415,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -472,7 +472,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -510,7 +510,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -586,7 +586,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -643,7 +643,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -681,7 +681,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -738,7 +738,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -757,7 +757,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "label": "Environmental Resource Management",
-      "type": "disciplinetea",
+      "type": "disciplineblu",
       "x": 1247.844970703125,
       "y": 1166.0933837890625,
       "id": "Environmental Resource Management",
@@ -852,7 +852,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -877,7 +877,9 @@
     {
       "label": "Just Transition Center",
       "type": "bigstructureorg",
+       "typeid": "Hub",
       "description": "This is the Just Transition Center, https://jtc.uni-halle.de/",
+      "link": "https://jtc.uni-halle.de",
       "x": -651.5992431640625,
       "y": -583.6314697265625,
       "id": "Just Transition Center",
@@ -896,7 +898,7 @@
     },
     {
       "label": "Slavic Studies",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -1019.0259399414062,
       "y": -1803.7398681640625,
       "id": "Slavic Studies",
@@ -910,7 +912,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -929,7 +931,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -948,7 +950,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -1081,7 +1083,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -1100,7 +1102,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -1119,7 +1121,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1138,7 +1140,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1575,7 +1577,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1651,7 +1653,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -1955,7 +1957,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2031,7 +2033,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -2069,7 +2071,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2088,7 +2090,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2145,12 +2147,12 @@
         "Weighted Degree": "22.0",
         "Weighted Out-Degree": "13.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.56686019897461
     },
     {
       "label": "political economy",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1570.596923828125,
       "y": 185.61920166015625,
       "id": "political economy",
@@ -2164,7 +2166,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -2259,7 +2261,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2354,7 +2356,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -2582,7 +2584,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -2696,7 +2698,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -2715,7 +2717,7 @@
         "Weighted Degree": "13.0",
         "Weighted Out-Degree": "11.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.47965145111084
     },
     {
@@ -2758,7 +2760,7 @@
     },
     {
       "label": "Journalism",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -2904.178466796875,
       "y": 1192.5521240234375,
       "id": "Journalism",
@@ -2772,7 +2774,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -2791,7 +2793,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.087209701538086
     },
     {
@@ -2810,7 +2812,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2943,7 +2945,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -2962,7 +2964,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3076,7 +3078,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3095,7 +3097,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.218023300170898
     },
     {
@@ -3114,7 +3116,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -3133,7 +3135,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -3152,7 +3154,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3209,7 +3211,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3228,7 +3230,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -3361,7 +3363,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3404,7 +3406,7 @@
     },
     {
       "label": "Media & Communication Studies",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -437.2946472167969,
       "y": -1754.918701171875,
       "id": "Media & Communication Studies",
@@ -3499,7 +3501,7 @@
     },
     {
       "label": "Economic geography",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -778.258056640625,
       "y": 1600.733154296875,
       "id": "Economic geography",
@@ -3513,7 +3515,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153, 206, 174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3532,7 +3534,7 @@
         "Weighted Degree": "15.0",
         "Weighted Out-Degree": "10.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.436046600341797
     },
     {
@@ -3665,7 +3667,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3684,7 +3686,7 @@
         "Weighted Degree": "13.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3741,7 +3743,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -3760,7 +3762,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -3950,7 +3952,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -4026,7 +4028,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.087209701538086
     },
     {
@@ -4050,7 +4052,7 @@
     },
     {
       "label": "contamination",
-      "type": "hashtagblu",
+      "type": "hashtagorg",
       "x": -63.01527404785156,
       "y": -586.2758178710938,
       "id": "contamination",
@@ -4102,7 +4104,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.218023300170898
     },
     {
@@ -4121,7 +4123,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -4254,7 +4256,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4292,7 +4294,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4406,7 +4408,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.174418449401855
     },
     {
@@ -4425,7 +4427,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -4482,7 +4484,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -4520,7 +4522,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -4615,7 +4617,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4791,7 +4793,7 @@
     },
     {
       "label": "Political Economy",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -1809.17041015625,
       "y": 1914.74462890625,
       "id": "Political Economy",
@@ -4829,7 +4831,7 @@
     },
     {
       "label": "architecture",
-      "type": "hashtagprl",
+      "type": "hashtagorg",
       "x": -70.0430679321289,
       "y": 70.05732727050781,
       "id": "architecture",
@@ -4843,7 +4845,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -4862,7 +4864,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4919,7 +4921,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4976,7 +4978,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -5014,7 +5016,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -5071,7 +5073,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -5090,7 +5092,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5147,7 +5149,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5190,7 +5192,7 @@
     },
     {
       "label": "Psychotherapy",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -2669.69091796875,
       "y": 276.6311340332031,
       "id": "Psychotherapy",
@@ -5204,7 +5206,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -5280,7 +5282,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -5432,7 +5434,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -5546,7 +5548,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -5603,7 +5605,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5660,7 +5662,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5698,7 +5700,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5736,7 +5738,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5907,7 +5909,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5964,7 +5966,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -6002,7 +6004,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6078,7 +6080,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6116,7 +6118,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6140,7 +6142,7 @@
     },
     {
       "label": "sustainable development",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -797.6863403320312,
       "y": 915.453857421875,
       "id": "sustainable development",
@@ -6154,7 +6156,7 @@
         "Weighted Degree": "17.0",
         "Weighted Out-Degree": "14.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.610465049743652
     },
     {
@@ -6287,7 +6289,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -6349,7 +6351,7 @@
     },
     {
       "label": "urban planning",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1009.83935546875,
       "y": 730.4054565429688,
       "id": "urban planning",
@@ -6363,7 +6365,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "6.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.261628150939941
     },
     {
@@ -6401,7 +6403,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -6458,7 +6460,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6477,7 +6479,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -6534,7 +6536,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6553,7 +6555,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.174418449401855
     },
     {
@@ -6629,7 +6631,7 @@
         "Weighted Degree": "38.0",
         "Weighted Out-Degree": "25.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 11.090116500854492
     },
     {
@@ -6857,7 +6859,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -6876,7 +6878,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6971,7 +6973,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -7085,7 +7087,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.087209701538086
     },
     {
@@ -7104,7 +7106,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -7128,7 +7130,7 @@
     },
     {
       "label": "environmental justice",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1142.6949462890625,
       "y": 378.4024658203125,
       "id": "environmental justice",
@@ -7142,7 +7144,7 @@
         "Weighted Degree": "25.0",
         "Weighted Out-Degree": "19.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.82848834991455
     },
     {
@@ -7389,7 +7391,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -7427,12 +7429,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
       "label": "Media Theory",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": 612.001708984375,
       "y": 183.09764099121094,
       "id": "Media Theory",
@@ -7446,12 +7448,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
       "label": "far-right populism",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -2170.028076171875,
       "y": 197.35411071777344,
       "id": "far-right populism",
@@ -7465,7 +7467,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -7484,7 +7486,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -7693,7 +7695,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -7736,7 +7738,7 @@
     },
     {
       "label": "petromodernity",
-      "type": "hashtagprl",
+      "type": "hashtagorg",
       "x": -550.1002197265625,
       "y": 378.3271179199219,
       "id": "petromodernity",
@@ -7750,7 +7752,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "7.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.305233001708984
     },
     {
@@ -7921,7 +7923,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -7940,7 +7942,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -7978,7 +7980,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.218023300170898
     },
     {
@@ -8092,7 +8094,7 @@
         "Weighted Degree": "29.0",
         "Weighted Out-Degree": "18.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.784883499145508
     },
     {
@@ -8168,7 +8170,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -8282,7 +8284,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -8358,7 +8360,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -8454,7 +8456,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -8473,7 +8475,7 @@
         "Weighted Degree": "12.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -8492,7 +8494,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -8511,7 +8513,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -8568,7 +8570,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -8644,7 +8646,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -8782,7 +8784,7 @@
     },
     {
       "label": "Pedagogy",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -1396.702392578125,
       "y": -1763.826904296875,
       "id": "Pedagogy",
@@ -8796,7 +8798,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -8834,7 +8836,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -9043,7 +9045,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -9086,7 +9088,7 @@
     },
     {
       "label": "anthropocene",
-      "type": "hashtagorg",
+      "type": "hashtagprl",
       "x": -373.703369140625,
       "y": 593.48583984375,
       "id": "anthropocene",
@@ -9128,6 +9130,25 @@
       "x": -195.35299682617188,
       "y": -104.8282241821289,
       "id": "Dr. Gregory Gan",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "6",
+        "Modularity Class": "0",
+        "Degree": "6",
+        "Weighted In-Degree": "6.0",
+        "Clustering Coefficient": "0.1666666716337204",
+        "Weighted Degree": "6.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(244, 154, 90)",
+      "size": 10
+    },
+    {
+      "label": "Susanna Segura Rütz",
+      "type": "scholar",
+      "x": -195.35299682617188,
+      "y": -104.8282241821289,
+      "id": "Susanna Segura Rütz",
       "attributes": {
         "Out-Degree": "0",
         "In-Degree": "6",
@@ -9252,7 +9273,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9271,7 +9292,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -9290,12 +9311,12 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
       "label": "energy economy",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1009.9893798828125,
       "y": 834.4259033203125,
       "id": "energy economy",
@@ -9309,7 +9330,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -9333,7 +9354,7 @@
     },
     {
       "label": "food security",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -493.3766174316406,
       "y": 289.6661682128906,
       "id": "food security",
@@ -9347,7 +9368,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(153, 206, 174",
+      "color": "rgb(255, 154, 91)",
       "size": 10.174418449401855
     },
     {
@@ -9366,7 +9387,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9404,7 +9425,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -9461,7 +9482,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -9480,7 +9501,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -9518,7 +9539,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9727,7 +9748,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -9746,7 +9767,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -9765,7 +9786,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -9879,7 +9900,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9917,7 +9938,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9936,7 +9957,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.087209701538086
     },
     {
@@ -9955,7 +9976,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -9974,7 +9995,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -10017,7 +10038,7 @@
     },
     {
       "label": "sustainability",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": 2.382746458053589,
       "y": -439.9405212402344,
       "id": "sustainability",
@@ -10031,7 +10052,7 @@
         "Weighted Degree": "37.0",
         "Weighted Out-Degree": "22.0"
       },
-      "color": "rgb(153, 206, 174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.959301948547363
     },
     {
@@ -10145,7 +10166,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -10446,7 +10467,7 @@
       "target": "Dr. Muhammad Zubair",
       "id": "7788",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -10958,7 +10979,7 @@
       "target": "Oliver Wolf",
       "id": "7768",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11433,6 +11454,14 @@
       "color": "rgb(138, 189, 237)",
       "size": 1
     },
+      {
+      "source": "A3: Networking with regions",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
+      "attributes": {},
+      "color": "rgb(138, 189, 237)",
+      "size": 1
+    },
     {
       "source": "Just Transition Center",
       "target": "chemistry in transition",
@@ -11534,7 +11563,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7726",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11654,7 +11683,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7734",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11693,6 +11722,14 @@
       "source": "Just Transition Center",
       "target": "Dr. Gregory Gan",
       "id": "7462",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
       "attributes": {},
       "color": "rgb(244, 154, 90)",
       "size": 1
@@ -12310,7 +12347,7 @@
       "target": "Dr. Muhammad Zubair",
       "id": "7782",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -12910,7 +12947,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7728",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -12982,7 +13019,7 @@
       "target": "Richard Schalinski",
       "id": "7783",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -13253,6 +13290,14 @@
       "source": "Anthropology",
       "target": "Dr. Gregory Gan",
       "id": "7608",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+      {
+      "source": "Human Geography",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
       "attributes": {},
       "color": "rgb(244, 154, 90)",
       "size": 1
@@ -13886,7 +13931,7 @@
       "target": "Oliver Wolf",
       "id": "7774",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14174,7 +14219,7 @@
       "target": "Anjali Bhatt",
       "id": "7796",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14662,7 +14707,7 @@
       "target": "Giovanna Sanchez Nieminen",
       "id": "9119",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14838,7 +14883,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7746",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14942,7 +14987,7 @@
       "target": "Richard Schalinski",
       "id": "7790",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -15174,7 +15219,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7732",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -15406,7 +15451,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7731",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -16550,7 +16595,7 @@
       "target": "Anjali Bhatt",
       "id": "7794",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -16838,7 +16883,7 @@
       "target": "Richard Schalinski",
       "id": "7792",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -17070,7 +17115,7 @@
       "target": "Giovanna Sanchez Nieminen",
       "id": "9116",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -17565,6 +17610,14 @@
       "source": "multimodal research",
       "target": "Dr. Gregory Gan",
       "id": "7611",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+     {
+      "source": "multimodal research",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
       "attributes": {},
       "color": "rgb(244, 154, 90)",
       "size": 1
@@ -18950,7 +19003,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7722",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -18958,7 +19011,7 @@
       "target": "Shixian Huang",
       "id": "7724",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -18990,7 +19043,7 @@
       "target": "Oliver Wolf",
       "id": "7775",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19574,7 +19627,7 @@
       "target": "Anjali Bhatt",
       "id": "7795",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19782,7 +19835,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7723",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19846,7 +19899,7 @@
       "target": "Richard Schalinski",
       "id": "7791",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20470,7 +20523,7 @@
       "target": "Anjali Bhatt",
       "id": "7784",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20654,7 +20707,7 @@
       "target": "Shixian Huang",
       "id": "7736",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20710,7 +20763,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7743",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21430,7 +21483,7 @@
       "target": "Sebastian Zimmermann",
       "id": "7779",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21814,7 +21867,7 @@
       "target": "Torsten Hölscher",
       "id": "7767",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21838,7 +21891,7 @@
       "target": "Qian Xu",
       "id": "7725",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -22078,7 +22131,7 @@
       "target": "Torsten Hölscher",
       "id": "7770",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -22554,11 +22607,19 @@
       "size": 1
     },
     {
+      "source": "artistic research",
+      "target": "Susanna Segura Rütz",
+      "id": "7609",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+    {
       "source": "sustainable energy",
       "target": "Dr. Muhammad Zubair",
       "id": "7786",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -22614,7 +22675,7 @@
       "target": "Tatjana Söding",
       "id": "8518",
       "attributes": {},
-      "color": "rgb(124,125,138)",
+      "color": "rgb(255, 154, 91)",
       "size": 1
     },
     {
@@ -23278,7 +23339,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7727",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -23398,7 +23459,7 @@
       "target": "Torsten Hölscher",
       "id": "7771",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -23678,7 +23739,7 @@
       "target": "Sebastian Zimmermann",
       "id": "7769",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -24790,7 +24851,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7744",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -24878,7 +24939,7 @@
       "target": "Qian Xu",
       "id": "7740",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -25662,7 +25723,7 @@
       "target": "Shixian Huang",
       "id": "7735",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -26486,7 +26547,7 @@
       "target": "Shixian Huang",
       "id": "7738",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -26846,7 +26907,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7730",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -28262,7 +28323,7 @@
       "target": "Qian Xu",
       "id": "7742",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
