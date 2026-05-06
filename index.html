@@ -10,10 +10,9 @@
 
 <body>
 
-  <div id="3d-graph"></div>
-<div class="background">
-  <div id="tint" class="transbox blue"></div>
+<div class="label">
 </div>
+  <div id="3d-graph"></div>
 
 
   <script type="module">
@@ -22,48 +21,43 @@
     import * as THREE from 'https://esm.sh/three';
 
 const elem = document.getElementById('3d-graph')
-//const imgs = ['discipline.png', 'hashtag.png', 'structure.png'];
-
 const Graph = new ForceGraph3D(elem)
-       
-      .linkDirectionalParticles(1)
-      .linkDirectionalParticleWidth(0.4)
-      .linkDirectionalParticleSpeed(0.002)
-    
-.onNodeClick(node => window.open(node.link))
+   .jsonUrl('../datasets/vis.json') 
+   .linkDirectionalParticles(1)
+   .linkDirectionalParticleWidth(0.4)
+   .linkDirectionalParticleSpeed(0.002)
    .linkOpacity(0.1)
- //  .linkColor(link => link.color ? 'darkorange' : 'red' )
-   .jsonUrl('../datasets/vis.json')
- //  .nodeLabel(node => `${node.source}`)
- //.nodeLabel('text')
-    .nodeLabel(node => `${node.name} (${node.category})`)
-    
-       //   .onNodeHover(node => `${node.emitparticles});
-      
-       
-  // .nodeLabel(node => `${node.user}: ${node.description}`)
+   .nodeLabel(node => {
+   if (node.link) {
+      return `${node.text = `Open`} ${node.shortname}${node.text = `'s profile using right click`}<br>${node.link}`
+      Element.style.textAlign = "center";
+   }
+   return '';
+   })
+   .onNodeRightClick(node => {
+      if (node.link) {
+      window.open(node.link, '_blank', 'noopener,noreferrer');
+      }
+   })
    .nodeResolution([10])
-   .onNodeClick(node => {
-      // Aim at node from outside it
-      const distance = 80;
-      const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
-      const newPos = node.x || node.y || node.z
-         ? {x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio}
-         : {x: 0, y: 0, z: distance}; // special case if node is in (0,0,0)
+   .onNodeClick(node => { // Aim at node from outside it
+   const distance = 80;
+   const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+   const newPos = node.x || node.y || node.z
+      ? {x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio}
+      : {x: 0, y: 0, z: distance}; // special case if node is in (0,0,0)
 
-         
-      Graph.cameraPosition(
-         newPos, // new position
-         node, // lookAt ({ x, y, z })
-         3000  // ms transition duration
-      );
+   Graph.cameraPosition(
+      newPos, // new position
+      node, // lookAt ({ x, y, z })
+      3000  // ms transition duration
+   );
    })
    .nodeAutoColorBy('group')
    .nodeThreeObjectExtend(node =>{
       return !(["bigstructureblu", "bigstructureorg", "bigstructureprl", "bigstructuretea", "disciplineblu", "disciplineorg", "disciplineprl", "disciplinetea", "hashtagblu", "hashtagorg", "hashtagprl", "hashtagtea", "lilstructureblu", "lilstructureorg", "lilstructureprl", "lilstructuretea"].includes(node.type));
    })
 
-    //scholar or #keyword or discipline
    .nodeThreeObject(node => {
       const textSprite = new SpriteText(node.label ?? node.id);
 
@@ -292,8 +286,7 @@ const Graph = new ForceGraph3D(elem)
       }
       textSprite.textHeight = 4;
       return textSprite;
-   });
-
+   })
 
 Graph.d3Force('charge').strength(-300);
 
