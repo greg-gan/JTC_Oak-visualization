@@ -97,6 +97,8 @@
     },
     {
       "label": "C3: Transformative Learning (TraiL)",
+      "shortname": "C3",
+      "link": "https://jtc.uni-halle.de/c/c3/",
       "type": "lilstructuretea",
       "x": -1452.4837646484375,
       "y": -1332.2301025390625,
@@ -421,6 +423,8 @@
     {
       "label": "A5: Postindustrial Futures",
       "type": "lilstructureorg",
+      "shortname": "A5",
+      "link": "https://jtc.uni-halle.de/a/a5/",
       "x": -1359.21875,
       "y": 117.19949340820312,
       "id": "A5: Postindustrial Futures",
@@ -478,6 +482,8 @@
     {
       "label": "B2: Petrology of Raw Materials",
       "type": "lilstructureblu",
+      "shortname": "B2",
+      "link": "https://jtc.uni-halle.de/b/b2/",
       "x": 801.1647338867188,
       "y": -516.39404296875,
       "id": "B2: Petrology of Raw Materials",
@@ -877,7 +883,7 @@
     {
       "label": "Just Transition Center",
       "type": "bigstructureorg",
-       "typeid": "Hub",
+       "shortname": "JTC",
       "description": "This is the Just Transition Center, https://jtc.uni-halle.de/",
       "link": "https://jtc.uni-halle.de",
       "x": -651.5992431640625,
@@ -1678,6 +1684,8 @@
     {
       "label": "B7: 3D-Printable Polymers",
       "type": "lilstructureblu",
+      "shortname": "B7",
+      "link": "https://jtc.uni-halle.de/b/b7/",
       "x": 790.8400268554688,
       "y": -981.4749755859375,
       "id": "B7: 3D-Printable Polymers",
@@ -2039,6 +2047,8 @@
     {
       "label": "A6: Socio-Ecological Transformations",
       "type": "lilstructureorg",
+      "shortname": "A6",
+      "link": "https://jtc.uni-halle.de/a/a6/",
       "x": -1114.711669921875,
       "y": -222.17416381835938,
       "id": "A6: Socio-Ecological Transformations",
@@ -2495,6 +2505,8 @@
     {
       "label": "A3: Networking with regions",
       "type": "lilstructureorg",
+      "shortname": "A3",
+      "link": "https://jtc.uni-halle.de/a/a3/",
       "x": -380.38525390625,
       "y": 0.20853298902511597,
       "id": "A3: Networking with regions",
@@ -4091,6 +4103,8 @@
     {
       "label": "B3: Green Molecules Conversion (GMC)",
       "type": "lilstructureblu",
+      "shortname": "B3",
+      "link": "https://jtc.uni-halle.de/b/b3/",
       "x": 1045.3826904296875,
       "y": -511.2003479003906,
       "id": "B3: Green Molecules Conversion (GMC)",
@@ -4432,6 +4446,8 @@
     },
     {
       "label": "C2: LegalTech Lab",
+      "shortname": "C2",
+      "link": "https://jtc.uni-halle.de/c/c2/",
       "type": "lilstructuretea",
       "x": -1900.7420654296875,
       "y": -590.3051147460938,
@@ -4965,6 +4981,8 @@
     {
       "label": "B6: Sustainable Batteries",
       "type": "lilstructureblu",
+      "shortname": "B6",
+      "link": "https://jtc.uni-halle.de/b/b6/",
       "x": 832.1382446289062,
       "y": -657.5572509765625,
       "id": "B6: Sustainable Batteries",
@@ -5573,6 +5591,8 @@
     {
       "label": "A Pillar: Social sciences & humanities",
       "type": "bigstructureorg",
+      "shortname": "A Pillar",
+      "link": "https://jtc.uni-halle.de/a/",
       "x": -65.48207092285156,
       "y": 1179.70361328125,
       "id": "D Pillar: Applied Research",
@@ -5611,6 +5631,8 @@
     {
       "label": "B1: Soil Recultivation",
       "type": "lilstructureblu",
+      "shortname": "B1",
+      "link": "https://jtc.uni-halle.de/b/b1/",
       "x": 659.4397583007812,
       "y": -293.1302795410156,
       "id": "B1: Soil Recultivation",
@@ -6542,6 +6564,8 @@
     {
       "label": "C1: Sustainability standardisation",
       "type": "lilstructuretea",
+      "shortname": "C1",
+      "link": "https://jtc.uni-halle.de/c/c1/",
       "x": -2.2673633098602295,
       "y": -1376.578125,
       "id": "C1: Sustainability standardisation",
@@ -6713,6 +6737,8 @@
     {
       "label": "B4: Bio-based binders",
       "type": "lilstructureblu",
+      "shortname": "B4",
+      "link": "https://jtc.uni-halle.de/b/b4/",
       "x": 522.9015502929688,
       "y": -1221.51318359375,
       "id": "B4: Bio-based binders",
@@ -7245,6 +7271,8 @@
     {
       "label": "C Pillar: Law, governance & education",
       "type": "bigstructuretea",
+      "shortname": "C Pillar",
+      "link": "https://jtc.uni-halle.de/#c",
       "x": -1534.6146240234375,
       "y": 905.4869995117188,
       "id": "A Pillar: Social sciences & humanities",
@@ -7529,6 +7557,8 @@
     },
     {
       "label": "A4: Education and Participation",
+      "shortname": "A4",
+      "link": "https://jtc.uni-halle.de/a/a4/",
       "type": "lilstructureorg",
       "x": -1221.7921142578125,
       "y": -2047.6883544921875,
@@ -7777,6 +7807,8 @@
     {
       "label": "B Pillar: Natural Sciences",
       "type": "bigstructureblu",
+       "shortname": "B Pillar",
+      "link": "https://jtc.uni-halle.de/#b",
       "x": 761.4934692382812,
       "y": 286.7430725097656,
       "id": "B Pillar: Natural Sciences",
@@ -8213,6 +8245,8 @@
     },
     {
       "label": "A4 Education and Participation",
+      "shortname": "A4",
+      "link": "https://jtc.uni-halle.de/a/a4/",
       "type": "lilstructureorg",
       "x": -1157.506103515625,
       "y": 158.1605224609375,
@@ -8384,7 +8418,8 @@
     },
     {
       "label": "A2: Chemistry in transition",
-      "link": "www.google.com",
+      "shortname": "A2",
+      "link": "https://jtc.uni-halle.de/a/a2/",
       "type": "lilstructureorg",
       "x": -317.6317443847656,
       "y": 87.98043060302734,
@@ -8557,6 +8592,8 @@
     {
       "label": "B5: New Photovoltaic Materials",
       "type": "lilstructureblu",
+      "shortname": "B5",
+      "link": "https://jtc.uni-halle.de/b/b5/",
       "x": 724.2838745117188,
       "y": -620.7598266601562,
       "id": "B5: New Photovoltaic Materials",
@@ -9203,6 +9240,8 @@
     {
       "label": "A7: Just Transition Governance",
       "type": "lilstructureorg",
+      "shortname": "A7",
+      "link": "https://jtc.uni-halle.de/a/a7/",
       "x": -1668.26904296875,
       "y": -281.7156982421875,
       "id": "A7: Just Transition Governance",
@@ -10172,6 +10211,8 @@
     {
       "label": "A1: Structural Change",
       "type": "lilstructureorg",
+      "shortname": "A1",
+      "link": "https://jtc.uni-halle.de/a/a1/",
       "x": -627.4232788085938,
       "y": -81.04989624023438,
       "id": "A1: Structural Change",
