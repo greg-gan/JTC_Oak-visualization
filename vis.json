@@ -16,7 +16,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -35,12 +35,12 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "Environmental history",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -1826.8758544921875,
       "y": -1086.5830078125,
       "id": "Environmental history",
@@ -54,7 +54,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -73,7 +73,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -92,11 +92,13 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
       "label": "C3: Transformative Learning (TraiL)",
+      "shortname": "C3",
+      "link": "https://jtc.uni-halle.de/c/c3/",
       "type": "lilstructuretea",
       "x": -1452.4837646484375,
       "y": -1332.2301025390625,
@@ -130,7 +132,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -192,7 +194,7 @@
     },
     {
       "label": "continuing education",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -956.2724609375,
       "y": -1313.5419921875,
       "id": "continuing education",
@@ -206,7 +208,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.218023300170898
     },
     {
@@ -225,7 +227,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -339,12 +341,12 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
       "label": "Economics",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -1333.5604248046875,
       "y": 802.1619262695312,
       "id": "Economics",
@@ -358,7 +360,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "9.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.392441749572754
     },
     {
@@ -415,12 +417,14 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
       "label": "A5: Postindustrial Futures",
       "type": "lilstructureorg",
+      "shortname": "A5",
+      "link": "https://jtc.uni-halle.de/a/a5/",
       "x": -1359.21875,
       "y": 117.19949340820312,
       "id": "A5: Postindustrial Futures",
@@ -472,12 +476,14 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
       "label": "B2: Petrology of Raw Materials",
       "type": "lilstructureblu",
+      "shortname": "B2",
+      "link": "https://jtc.uni-halle.de/b/b2/",
       "x": 801.1647338867188,
       "y": -516.39404296875,
       "id": "B2: Petrology of Raw Materials",
@@ -510,7 +516,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -586,7 +592,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -605,7 +611,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -643,7 +649,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -667,7 +673,7 @@
     },
     {
       "label": "Social Anthropology",
-      "type": "disciplineorg",
+      "type": "disciplinetea",
       "x": -317.0191955566406,
       "y": 1715.287353515625,
       "id": "Social Anthropology",
@@ -681,7 +687,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -738,7 +744,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -757,7 +763,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -795,7 +801,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -838,7 +844,7 @@
     },
     {
       "label": "Environmental Resource Management",
-      "type": "disciplinetea",
+      "type": "disciplineblu",
       "x": 1247.844970703125,
       "y": 1166.0933837890625,
       "id": "Environmental Resource Management",
@@ -852,7 +858,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -877,7 +883,9 @@
     {
       "label": "Just Transition Center",
       "type": "bigstructureorg",
+       "shortname": "JTC",
       "description": "This is the Just Transition Center, https://jtc.uni-halle.de/",
+      "link": "https://jtc.uni-halle.de",
       "x": -651.5992431640625,
       "y": -583.6314697265625,
       "id": "Just Transition Center",
@@ -896,7 +904,7 @@
     },
     {
       "label": "Slavic Studies",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -1019.0259399414062,
       "y": -1803.7398681640625,
       "id": "Slavic Studies",
@@ -910,7 +918,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -929,7 +937,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -948,7 +956,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -1081,7 +1089,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -1100,7 +1108,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -1119,7 +1127,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1138,7 +1146,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1537,7 +1545,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -1575,7 +1583,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -1613,7 +1621,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -1651,7 +1659,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -1676,6 +1684,8 @@
     {
       "label": "B7: 3D-Printable Polymers",
       "type": "lilstructureblu",
+      "shortname": "B7",
+      "link": "https://jtc.uni-halle.de/b/b7/",
       "x": 790.8400268554688,
       "y": -981.4749755859375,
       "id": "B7: 3D-Printable Polymers",
@@ -1955,7 +1965,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2031,12 +2041,14 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "A6: Socio-Ecological Transformations",
       "type": "lilstructureorg",
+      "shortname": "A6",
+      "link": "https://jtc.uni-halle.de/a/a6/",
       "x": -1114.711669921875,
       "y": -222.17416381835938,
       "id": "A6: Socio-Ecological Transformations",
@@ -2069,7 +2081,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2088,7 +2100,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2112,7 +2124,7 @@
     },
     {
       "label": "critical minerals",
-      "type": "hashtagtea",
+      "type": "hashtagblu",
       "x": -334.5755310058594,
       "y": 1940.8548583984375,
       "id": "critical minerals",
@@ -2126,7 +2138,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.174418449401855
     },
     {
@@ -2145,12 +2157,12 @@
         "Weighted Degree": "22.0",
         "Weighted Out-Degree": "13.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.56686019897461
     },
     {
       "label": "political economy",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1570.596923828125,
       "y": 185.61920166015625,
       "id": "political economy",
@@ -2164,7 +2176,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -2259,7 +2271,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2283,7 +2295,7 @@
     },
     {
       "label": "energy planning",
-      "type": "hashtagtea",
+      "type": "hashtagblu",
       "x": -142.82545471191406,
       "y": 1843.267578125,
       "id": "energy planning",
@@ -2297,7 +2309,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2354,7 +2366,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -2493,6 +2505,8 @@
     {
       "label": "A3: Networking with regions",
       "type": "lilstructureorg",
+      "shortname": "A3",
+      "link": "https://jtc.uni-halle.de/a/a3/",
       "x": -380.38525390625,
       "y": 0.20853298902511597,
       "id": "A3: Networking with regions",
@@ -2525,7 +2539,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -2582,7 +2596,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -2696,7 +2710,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -2715,7 +2729,7 @@
         "Weighted Degree": "13.0",
         "Weighted Out-Degree": "11.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.47965145111084
     },
     {
@@ -2758,7 +2772,7 @@
     },
     {
       "label": "Journalism",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -2904.178466796875,
       "y": 1192.5521240234375,
       "id": "Journalism",
@@ -2772,7 +2786,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -2791,7 +2805,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.087209701538086
     },
     {
@@ -2810,7 +2824,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -2872,7 +2886,7 @@
     },
     {
       "label": "Innovation",
-      "type": "disciplineblu",
+      "type": "disciplinetea",
       "x": -3170.417236328125,
       "y": 1259.4326171875,
       "id": "Innovation",
@@ -2886,7 +2900,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -2905,7 +2919,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -2943,7 +2957,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -2962,7 +2976,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3038,7 +3052,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -3057,7 +3071,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3076,7 +3090,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3095,7 +3109,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.218023300170898
     },
     {
@@ -3114,7 +3128,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -3133,7 +3147,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -3152,7 +3166,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3209,7 +3223,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3228,7 +3242,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -3327,8 +3341,8 @@
       "size": 10
     },
     {
-      "label": "C Pillar: Law, governance & education",
-      "type": "bigstructure",
+      "label": "Revier Scouts",
+      "type": "bigstructuretea",
       "x": -2314.591796875,
       "y": 647.5980834960938,
       "id": "C Pillar: Law, governance & education",
@@ -3361,7 +3375,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3404,7 +3418,7 @@
     },
     {
       "label": "Media & Communication Studies",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": -437.2946472167969,
       "y": -1754.918701171875,
       "id": "Media & Communication Studies",
@@ -3480,7 +3494,7 @@
     },
     {
       "label": "Applied Research",
-      "type": "disciplineprl",
+      "type": "disciplinetea",
       "x": 153.28932189941406,
       "y": 2101.388427734375,
       "id": "Applied Research",
@@ -3494,12 +3508,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
       "label": "Economic geography",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -778.258056640625,
       "y": 1600.733154296875,
       "id": "Economic geography",
@@ -3513,7 +3527,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153, 206, 174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -3532,7 +3546,7 @@
         "Weighted Degree": "15.0",
         "Weighted Out-Degree": "10.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.436046600341797
     },
     {
@@ -3665,7 +3679,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3684,7 +3698,7 @@
         "Weighted Degree": "13.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -3741,7 +3755,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -3760,7 +3774,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -3784,7 +3798,7 @@
     },
     {
       "label": "natural resource management",
-      "type": "hashtagtea",
+      "type": "hashtagblu",
       "x": 14.73371410369873,
       "y": -264.9544372558594,
       "id": "natural resource management",
@@ -3950,7 +3964,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -3988,7 +4002,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -4026,7 +4040,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.087209701538086
     },
     {
@@ -4050,7 +4064,7 @@
     },
     {
       "label": "contamination",
-      "type": "hashtagblu",
+      "type": "hashtagorg",
       "x": -63.01527404785156,
       "y": -586.2758178710938,
       "id": "contamination",
@@ -4089,6 +4103,8 @@
     {
       "label": "B3: Green Molecules Conversion (GMC)",
       "type": "lilstructureblu",
+      "shortname": "B3",
+      "link": "https://jtc.uni-halle.de/b/b3/",
       "x": 1045.3826904296875,
       "y": -511.2003479003906,
       "id": "B3: Green Molecules Conversion (GMC)",
@@ -4102,7 +4118,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.218023300170898
     },
     {
@@ -4121,7 +4137,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -4182,11 +4198,11 @@
       "size": 10.218023300170898
     },
     {
-      "label": "Labour writer",
-      "type": "disciplineorg",
+      "label": "Labour writing",
+      "type": "disciplinetea",
       "x": -2884.787109375,
       "y": 1885.0482177734375,
-      "id": "Labour writer",
+      "id": "Labour writing",
       "attributes": {
         "Out-Degree": "1",
         "In-Degree": "0",
@@ -4254,7 +4270,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4292,7 +4308,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4406,7 +4422,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.174418449401855
     },
     {
@@ -4425,11 +4441,13 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "C2: LegalTech Lab",
+      "shortname": "C2",
+      "link": "https://jtc.uni-halle.de/c/c2/",
       "type": "lilstructuretea",
       "x": -1900.7420654296875,
       "y": -590.3051147460938,
@@ -4482,7 +4500,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -4520,7 +4538,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -4615,7 +4633,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4805,7 +4823,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -4824,7 +4842,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -4843,7 +4861,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -4862,7 +4880,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4919,7 +4937,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -4938,7 +4956,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -4963,6 +4981,8 @@
     {
       "label": "B6: Sustainable Batteries",
       "type": "lilstructureblu",
+      "shortname": "B6",
+      "link": "https://jtc.uni-halle.de/b/b6/",
       "x": 832.1382446289062,
       "y": -657.5572509765625,
       "id": "B6: Sustainable Batteries",
@@ -4976,7 +4996,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -5014,7 +5034,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -5071,7 +5091,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -5090,7 +5110,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5147,7 +5167,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5190,7 +5210,7 @@
     },
     {
       "label": "Psychotherapy",
-      "type": "disciplineprl",
+      "type": "disciplinetea",
       "x": -2669.69091796875,
       "y": 276.6311340332031,
       "id": "Psychotherapy",
@@ -5204,7 +5224,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -5280,7 +5300,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -5432,7 +5452,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -5489,7 +5509,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -5527,7 +5547,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -5546,7 +5566,7 @@
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -5571,6 +5591,8 @@
     {
       "label": "A Pillar: Social sciences & humanities",
       "type": "bigstructureorg",
+      "shortname": "A Pillar",
+      "link": "https://jtc.uni-halle.de/a/",
       "x": -65.48207092285156,
       "y": 1179.70361328125,
       "id": "D Pillar: Applied Research",
@@ -5603,12 +5625,14 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "B1: Soil Recultivation",
       "type": "lilstructureblu",
+      "shortname": "B1",
+      "link": "https://jtc.uni-halle.de/b/b1/",
       "x": 659.4397583007812,
       "y": -293.1302795410156,
       "id": "B1: Soil Recultivation",
@@ -5660,7 +5684,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5698,7 +5722,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5736,7 +5760,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -5793,7 +5817,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -5907,7 +5931,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -5964,7 +5988,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -6002,7 +6026,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6078,7 +6102,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6116,7 +6140,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6140,7 +6164,7 @@
     },
     {
       "label": "sustainable development",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -797.6863403320312,
       "y": 915.453857421875,
       "id": "sustainable development",
@@ -6154,7 +6178,7 @@
         "Weighted Degree": "17.0",
         "Weighted Out-Degree": "14.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.610465049743652
     },
     {
@@ -6249,7 +6273,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -6287,7 +6311,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -6349,7 +6373,7 @@
     },
     {
       "label": "urban planning",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1009.83935546875,
       "y": 730.4054565429688,
       "id": "urban planning",
@@ -6363,7 +6387,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "6.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.261628150939941
     },
     {
@@ -6401,7 +6425,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
@@ -6458,7 +6482,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6477,7 +6501,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -6534,12 +6558,14 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
       "label": "C1: Sustainability standardisation",
       "type": "lilstructuretea",
+      "shortname": "C1",
+      "link": "https://jtc.uni-halle.de/c/c1/",
       "x": -2.2673633098602295,
       "y": -1376.578125,
       "id": "C1: Sustainability standardisation",
@@ -6553,7 +6579,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.174418449401855
     },
     {
@@ -6629,7 +6655,7 @@
         "Weighted Degree": "38.0",
         "Weighted Out-Degree": "25.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 11.090116500854492
     },
     {
@@ -6711,6 +6737,8 @@
     {
       "label": "B4: Bio-based binders",
       "type": "lilstructureblu",
+      "shortname": "B4",
+      "link": "https://jtc.uni-halle.de/b/b4/",
       "x": 522.9015502929688,
       "y": -1221.51318359375,
       "id": "B4: Bio-based binders",
@@ -6857,7 +6885,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -6876,7 +6904,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -6919,7 +6947,7 @@
     },
     {
       "label": "statistical analysis",
-      "type": "hashtagblu",
+      "type": "hashtagtea",
       "x": -895.1249389648438,
       "y": 2353.175537109375,
       "id": "statistical analysis",
@@ -6952,7 +6980,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.130813598632812
     },
     {
@@ -6971,7 +6999,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -7085,7 +7113,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.087209701538086
     },
     {
@@ -7104,7 +7132,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -7128,7 +7156,7 @@
     },
     {
       "label": "environmental justice",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1142.6949462890625,
       "y": 378.4024658203125,
       "id": "environmental justice",
@@ -7142,7 +7170,7 @@
         "Weighted Degree": "25.0",
         "Weighted Out-Degree": "19.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.82848834991455
     },
     {
@@ -7199,7 +7227,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -7243,6 +7271,8 @@
     {
       "label": "C Pillar: Law, governance & education",
       "type": "bigstructuretea",
+      "shortname": "C Pillar",
+      "link": "https://jtc.uni-halle.de/#c",
       "x": -1534.6146240234375,
       "y": 905.4869995117188,
       "id": "A Pillar: Social sciences & humanities",
@@ -7389,7 +7419,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -7427,12 +7457,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
       "label": "Media Theory",
-      "type": "disciplineprl",
+      "type": "disciplineorg",
       "x": 612.001708984375,
       "y": 183.09764099121094,
       "id": "Media Theory",
@@ -7446,12 +7476,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
       "label": "far-right populism",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -2170.028076171875,
       "y": 197.35411071777344,
       "id": "far-right populism",
@@ -7465,7 +7495,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -7484,7 +7514,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -7527,6 +7557,8 @@
     },
     {
       "label": "A4: Education and Participation",
+      "shortname": "A4",
+      "link": "https://jtc.uni-halle.de/a/a4/",
       "type": "lilstructureorg",
       "x": -1221.7921142578125,
       "y": -2047.6883544921875,
@@ -7679,7 +7711,7 @@
     },
     {
       "label": "Political Sociology",
-      "type": "disciplineorg",
+      "type": "disciplinetea",
       "x": -2572.1435546875,
       "y": 329.1294250488281,
       "id": "Political Sociology",
@@ -7693,7 +7725,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.087209701538086
     },
     {
@@ -7736,7 +7768,7 @@
     },
     {
       "label": "petromodernity",
-      "type": "hashtagprl",
+      "type": "hashtagorg",
       "x": -550.1002197265625,
       "y": 378.3271179199219,
       "id": "petromodernity",
@@ -7750,7 +7782,7 @@
         "Weighted Degree": "10.0",
         "Weighted Out-Degree": "7.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.305233001708984
     },
     {
@@ -7775,6 +7807,8 @@
     {
       "label": "B Pillar: Natural Sciences",
       "type": "bigstructureblu",
+       "shortname": "B Pillar",
+      "link": "https://jtc.uni-halle.de/#b",
       "x": 761.4934692382812,
       "y": 286.7430725097656,
       "id": "B Pillar: Natural Sciences",
@@ -7907,7 +7941,7 @@
     },
     {
       "label": "Technology Studies",
-      "type": "disciplineorg",
+      "type": "disciplinetea",
       "x": -2432.940673828125,
       "y": 1430.718505859375,
       "id": "Technology Studies",
@@ -7921,12 +7955,12 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.043604850769043
     },
     {
       "label": "Urban Sociology",
-      "type": "disciplineorg",
+      "type": "disciplinetea",
       "x": -1873.4874267578125,
       "y": 1270.6201171875,
       "id": "Urban Sociology",
@@ -7940,7 +7974,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(153, 206, 174)",
       "size": 10.087209701538086
     },
     {
@@ -7978,7 +8012,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "5.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.218023300170898
     },
     {
@@ -8092,7 +8126,7 @@
         "Weighted Degree": "29.0",
         "Weighted Out-Degree": "18.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.784883499145508
     },
     {
@@ -8168,7 +8202,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -8211,6 +8245,8 @@
     },
     {
       "label": "A4 Education and Participation",
+      "shortname": "A4",
+      "link": "https://jtc.uni-halle.de/a/a4/",
       "type": "lilstructureorg",
       "x": -1157.506103515625,
       "y": 158.1605224609375,
@@ -8282,7 +8318,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.130813598632812
     },
     {
@@ -8358,7 +8394,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -8382,7 +8418,8 @@
     },
     {
       "label": "A2: Chemistry in transition",
-      "link": "www.google.com",
+      "shortname": "A2",
+      "link": "https://jtc.uni-halle.de/a/a2/",
       "type": "lilstructureorg",
       "x": -317.6317443847656,
       "y": 87.98043060302734,
@@ -8454,7 +8491,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -8473,7 +8510,7 @@
         "Weighted Degree": "12.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -8492,7 +8529,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -8511,7 +8548,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.043604850769043
     },
     {
@@ -8555,6 +8592,8 @@
     {
       "label": "B5: New Photovoltaic Materials",
       "type": "lilstructureblu",
+      "shortname": "B5",
+      "link": "https://jtc.uni-halle.de/b/b5/",
       "x": 724.2838745117188,
       "y": -620.7598266601562,
       "id": "B5: New Photovoltaic Materials",
@@ -8568,7 +8607,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.130813598632812
     },
     {
@@ -8644,7 +8683,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -8739,7 +8778,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -8782,7 +8821,7 @@
     },
     {
       "label": "Pedagogy",
-      "type": "disciplinetea",
+      "type": "disciplineorg",
       "x": -1396.702392578125,
       "y": -1763.826904296875,
       "id": "Pedagogy",
@@ -8796,7 +8835,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -8834,7 +8873,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -8948,7 +8987,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -9043,7 +9082,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -9086,7 +9125,7 @@
     },
     {
       "label": "anthropocene",
-      "type": "hashtagorg",
+      "type": "hashtagprl",
       "x": -373.703369140625,
       "y": 593.48583984375,
       "id": "anthropocene",
@@ -9142,6 +9181,25 @@
       "size": 10
     },
     {
+      "label": "Susanna Segura Rütz",
+      "type": "scholar",
+      "x": -195.35299682617188,
+      "y": -104.8282241821289,
+      "id": "Susanna Segura Rütz",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "6",
+        "Modularity Class": "0",
+        "Degree": "6",
+        "Weighted In-Degree": "6.0",
+        "Clustering Coefficient": "0.1666666716337204",
+        "Weighted Degree": "6.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(244, 154, 90)",
+      "size": 10
+    },
+    {
       "label": "Prof. Dr. Christopher Conrad",
       "type": "scholar",
       "x": -944.4974975585938,
@@ -9182,6 +9240,8 @@
     {
       "label": "A7: Just Transition Governance",
       "type": "lilstructureorg",
+      "shortname": "A7",
+      "link": "https://jtc.uni-halle.de/a/a7/",
       "x": -1668.26904296875,
       "y": -281.7156982421875,
       "id": "A7: Just Transition Governance",
@@ -9252,7 +9312,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(170, 120, 191)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9271,7 +9331,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(153, 206, 174)",
       "size": 10
     },
     {
@@ -9290,12 +9350,12 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
       "label": "energy economy",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -1009.9893798828125,
       "y": 834.4259033203125,
       "id": "energy economy",
@@ -9309,7 +9369,7 @@
         "Weighted Degree": "3.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.087209701538086
     },
     {
@@ -9324,16 +9384,16 @@
         "Modularity Class": "4",
         "Degree": "7",
         "Weighted In-Degree": "7.0",
-        "Clustering Coefficient": "0.1428571492433548",
+        "Clusterinfg Coefficient": "0.1428571492433548",
         "Weighted Degree": "7.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
       "label": "food security",
-      "type": "hashtagtea",
+      "type": "hashtagorg",
       "x": -493.3766174316406,
       "y": 289.6661682128906,
       "id": "food security",
@@ -9347,7 +9407,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "4.0"
       },
-      "color": "rgb(153, 206, 174",
+      "color": "rgb(255, 154, 91)",
       "size": 10.174418449401855
     },
     {
@@ -9366,7 +9426,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9404,7 +9464,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "3.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.130813598632812
     },
     {
@@ -9461,7 +9521,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(138, 189, 237)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -9480,7 +9540,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -9518,7 +9578,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9727,7 +9787,7 @@
         "Weighted Degree": "1.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10.043604850769043
     },
     {
@@ -9746,7 +9806,7 @@
         "Weighted Degree": "8.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -9765,7 +9825,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10
     },
     {
@@ -9822,7 +9882,7 @@
         "Weighted Degree": "5.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(91,128,208)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9879,7 +9939,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9917,7 +9977,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(255, 154, 91)",
       "size": 10
     },
     {
@@ -9936,7 +9996,7 @@
         "Weighted Degree": "4.0",
         "Weighted Out-Degree": "2.0"
       },
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 10.087209701538086
     },
     {
@@ -9955,7 +10015,7 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "1.0"
       },
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.043604850769043
     },
     {
@@ -9974,7 +10034,7 @@
         "Weighted Degree": "6.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
@@ -10017,7 +10077,7 @@
     },
     {
       "label": "sustainability",
-      "type": "hashtagtea",
+      "type": "hashtagblu",
       "x": 2.382746458053589,
       "y": -439.9405212402344,
       "id": "sustainability",
@@ -10031,7 +10091,7 @@
         "Weighted Degree": "37.0",
         "Weighted Out-Degree": "22.0"
       },
-      "color": "rgb(153, 206, 174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10.959301948547363
     },
     {
@@ -10145,12 +10205,14 @@
         "Weighted Degree": "2.0",
         "Weighted Out-Degree": "0.0"
       },
-      "color": "rgb(153,206,174)",
+      "color": "rgb(138, 189, 237)",
       "size": 10
     },
     {
       "label": "A1: Structural Change",
       "type": "lilstructureorg",
+      "shortname": "A1",
+      "link": "https://jtc.uni-halle.de/a/a1/",
       "x": -627.4232788085938,
       "y": -81.04989624023438,
       "id": "A1: Structural Change",
@@ -10166,6 +10228,82 @@
       },
       "color": "rgb(255, 154, 91)",
       "size": 10.174418449401855
+    },
+    {
+      "label": "Katja Wendland",
+      "type": "scholar",
+      "x": 257.7000427246094,
+      "y": 1191.108154296875,
+      "id": "Katja Wendland",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "2",
+        "Modularity Class": "3",
+        "Degree": "2",
+        "Weighted In-Degree": "2.0",
+        "Clustering Coefficient": "0.5",
+        "Weighted Degree": "2.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(153, 206, 174)",
+      "size": 10
+    },
+    {
+      "label": "Christian Hennicke",
+      "type": "scholar",
+      "x": 257.7000427246094,
+      "y": 1191.108154296875,
+      "id": "Christian Hennicke",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "2",
+        "Modularity Class": "3",
+        "Degree": "2",
+        "Weighted In-Degree": "2.0",
+        "Clustering Coefficient": "0.5",
+        "Weighted Degree": "2.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(153, 206, 174)",
+      "size": 10
+    },
+    {
+      "label": "Thomas Ernst",
+      "type": "scholar",
+      "x": 257.7000427246094,
+      "y": 1191.108154296875,
+      "id": "Thomas Ernst",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "2",
+        "Modularity Class": "3",
+        "Degree": "2",
+        "Weighted In-Degree": "2.0",
+        "Clustering Coefficient": "0.5",
+        "Weighted Degree": "2.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(153, 206, 174)",
+      "size": 10
+    },
+    {
+      "label": "Cornelia Deimer",
+      "type": "scholar",
+      "x": 257.7000427246094,
+      "y": 1191.108154296875,
+      "id": "Cornelia Deimer",
+      "attributes": {
+        "Out-Degree": "0",
+        "In-Degree": "2",
+        "Modularity Class": "3",
+        "Degree": "2",
+        "Weighted In-Degree": "2.0",
+        "Clustering Coefficient": "0.5",
+        "Weighted Degree": "2.0",
+        "Weighted Out-Degree": "0.0"
+      },
+      "color": "rgb(153, 206, 174)",
+      "size": 10
     }
   ],
   "links": [
@@ -10446,7 +10584,7 @@
       "target": "Dr. Muhammad Zubair",
       "id": "7788",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -10873,9 +11011,81 @@
       "color": "rgb(91,128,208)",
       "size": 1
     },
-    {
+     {
       "source": "C Pillar: Law, governance & education",
       "target": "Raphael J. Heffron",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "C Pillar: Law, governance & education",
+      "target": "Cornelia Deimer",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Katja Wendland",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Thomas Ernst",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Christian Hennicke",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+    {
+      "source": "Just Transition Center",
+      "target": "Raphael J. Heffron",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Cornelia Deimer",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "C Pillar: Law, governance & education",
+      "target": "Katja Wendland",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "C Pillar: Law, governance & education",
+      "target": "Thomas Ernst",
+      "id": "8227",
+      "attributes": {},
+      "color": "rgb(124,125,138)",
+      "size": 1
+    },
+     {
+      "source": "C Pillar: Law, governance & education",
+      "target": "Christian Hennicke",
       "id": "8227",
       "attributes": {},
       "color": "rgb(124,125,138)",
@@ -10910,7 +11120,7 @@
       "target": "law and governance",
       "id": "9704",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -10958,7 +11168,7 @@
       "target": "Oliver Wolf",
       "id": "7768",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11134,7 +11344,7 @@
       "target": "law and governance",
       "id": "9456",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -11433,6 +11643,14 @@
       "color": "rgb(138, 189, 237)",
       "size": 1
     },
+      {
+      "source": "A3: Networking with regions",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
+      "attributes": {},
+      "color": "rgb(138, 189, 237)",
+      "size": 1
+    },
     {
       "source": "Just Transition Center",
       "target": "chemistry in transition",
@@ -11518,7 +11736,7 @@
       "target": "artistic research",
       "id": "9603",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -11534,7 +11752,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7726",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11606,7 +11824,7 @@
       "target": "multimodal research",
       "id": "9728",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -11654,7 +11872,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7734",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -11693,6 +11911,14 @@
       "source": "Just Transition Center",
       "target": "Dr. Gregory Gan",
       "id": "7462",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+     {
+      "source": "Just Transition Center",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
       "attributes": {},
       "color": "rgb(244, 154, 90)",
       "size": 1
@@ -12310,7 +12536,7 @@
       "target": "Dr. Muhammad Zubair",
       "id": "7782",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -12526,7 +12752,7 @@
       "target": "law and governance",
       "id": "9434",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -12638,7 +12864,7 @@
       "target": "law and governance",
       "id": "9239",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -12838,7 +13064,7 @@
       "target": "artistic research",
       "id": "9536",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -12854,7 +13080,7 @@
       "target": "law and governance",
       "id": "9236",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -12910,7 +13136,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7728",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -12982,7 +13208,7 @@
       "target": "Richard Schalinski",
       "id": "7783",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -13253,6 +13479,14 @@
       "source": "Anthropology",
       "target": "Dr. Gregory Gan",
       "id": "7608",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+      {
+      "source": "Human Geography",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
       "attributes": {},
       "color": "rgb(244, 154, 90)",
       "size": 1
@@ -13542,7 +13776,7 @@
       "target": "multimodal research",
       "id": "9588",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -13886,7 +14120,7 @@
       "target": "Oliver Wolf",
       "id": "7774",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -13978,7 +14212,7 @@
       "size": 1
     },
     {
-      "source": "Labour writer",
+      "source": "Labour writing",
       "target": "Jim Young",
       "id": "8920",
       "attributes": {},
@@ -14126,7 +14360,7 @@
       "target": "multimodal research",
       "id": "9510",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -14174,7 +14408,7 @@
       "target": "Anjali Bhatt",
       "id": "7796",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14310,7 +14544,7 @@
       "target": "artistic research",
       "id": "9151",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -14334,10 +14568,10 @@
       "target": "knowledge transfer",
       "id": "9231",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
-    {
+     {
       "source": "A4: Education and Participation",
       "target": "Dr. Martin Kriemann",
       "id": "7612",
@@ -14398,7 +14632,7 @@
       "target": "law and governance",
       "id": "9243",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -14662,7 +14896,7 @@
       "target": "Giovanna Sanchez Nieminen",
       "id": "9119",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14670,7 +14904,7 @@
       "target": "Artistic Research",
       "id": "9370",
       "attributes": {},
-      "color": "rgb(131,125,27)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -14718,7 +14952,7 @@
       "target": "knowledge transfer",
       "id": "9230",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -14838,7 +15072,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7746",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14942,7 +15176,7 @@
       "target": "Richard Schalinski",
       "id": "7790",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -14990,7 +15224,7 @@
       "target": "law and governance",
       "id": "9506",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -15006,7 +15240,7 @@
       "target": "knowledge transfer",
       "id": "9226",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -15174,7 +15408,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7732",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -15326,7 +15560,7 @@
       "target": "law and governance",
       "id": "9446",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -15406,7 +15640,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7731",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -15462,7 +15696,7 @@
       "target": "multimodal research",
       "id": "9600",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -16110,7 +16344,7 @@
       "target": "law and governance",
       "id": "9416",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -16230,7 +16464,7 @@
       "target": "multimodal research",
       "id": "9720",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -16550,7 +16784,7 @@
       "target": "Anjali Bhatt",
       "id": "7794",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -16734,7 +16968,7 @@
       "target": "multimodal research",
       "id": "9592",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -16838,7 +17072,7 @@
       "target": "Richard Schalinski",
       "id": "7792",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -17070,7 +17304,7 @@
       "target": "Giovanna Sanchez Nieminen",
       "id": "9116",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -17569,6 +17803,14 @@
       "color": "rgb(244, 154, 90)",
       "size": 1
     },
+     {
+      "source": "multimodal research",
+      "target": "Susanna Segura Rütz",
+      "id": "9999",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
     {
       "source": "ZIRS",
       "target": "PD Dr. Katja Müller",
@@ -17758,7 +18000,7 @@
       "target": "law and governance",
       "id": "9700",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -18630,7 +18872,7 @@
       "target": "law and governance",
       "id": "9469",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -18646,7 +18888,7 @@
       "target": "knowledge transfer",
       "id": "9569",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -18678,7 +18920,7 @@
       "target": "artistic research",
       "id": "9587",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -18950,7 +19192,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7722",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -18958,7 +19200,7 @@
       "target": "Shixian Huang",
       "id": "7724",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -18990,7 +19232,7 @@
       "target": "Oliver Wolf",
       "id": "7775",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19366,7 +19608,7 @@
       "target": "law and governance",
       "id": "9424",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -19574,7 +19816,7 @@
       "target": "Anjali Bhatt",
       "id": "7795",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19782,7 +20024,7 @@
       "target": "Dr. Maria Gaudig",
       "id": "7723",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -19846,7 +20088,7 @@
       "target": "Richard Schalinski",
       "id": "7791",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20142,7 +20384,7 @@
       "target": "law and governance",
       "id": "9240",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -20422,7 +20664,7 @@
       "target": "law and governance",
       "id": "9244",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -20470,7 +20712,7 @@
       "target": "Anjali Bhatt",
       "id": "7784",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20494,7 +20736,7 @@
       "target": "knowledge transfer",
       "id": "9652",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -20654,7 +20896,7 @@
       "target": "Shixian Huang",
       "id": "7736",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -20710,7 +20952,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7743",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21182,7 +21424,7 @@
       "target": "artistic research",
       "id": "9428",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -21286,7 +21528,7 @@
       "target": "law and governance",
       "id": "9237",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -21390,7 +21632,7 @@
       "target": "artistic research",
       "id": "9595",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -21430,7 +21672,7 @@
       "target": "Sebastian Zimmermann",
       "id": "7779",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21478,7 +21720,7 @@
       "target": "multimodal research",
       "id": "9462",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -21686,7 +21928,7 @@
       "target": "law and governance",
       "id": "9241",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -21814,7 +22056,7 @@
       "target": "Torsten Hölscher",
       "id": "7767",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21838,7 +22080,7 @@
       "target": "Qian Xu",
       "id": "7725",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -21950,7 +22192,7 @@
       "target": "multimodal research",
       "id": "9572",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -22078,7 +22320,7 @@
       "target": "Torsten Hölscher",
       "id": "7770",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -22310,7 +22552,7 @@
       "target": "multimodal research",
       "id": "9732",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -22438,7 +22680,7 @@
       "target": "artistic research",
       "id": "9718",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -22454,7 +22696,7 @@
       "target": "law and governance",
       "id": "9242",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -22486,7 +22728,7 @@
       "target": "multimodal research",
       "id": "9248",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -22494,7 +22736,7 @@
       "target": "law and governance",
       "id": "9498",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -22554,11 +22796,19 @@
       "size": 1
     },
     {
+      "source": "artistic research",
+      "target": "Susanna Segura Rütz",
+      "id": "7609",
+      "attributes": {},
+      "color": "rgb(244, 154, 90)",
+      "size": 1
+    },
+    {
       "source": "sustainable energy",
       "target": "Dr. Muhammad Zubair",
       "id": "7786",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -22566,7 +22816,7 @@
       "target": "artistic research",
       "id": "9571",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -22614,7 +22864,7 @@
       "target": "Tatjana Söding",
       "id": "8518",
       "attributes": {},
-      "color": "rgb(124,125,138)",
+      "color": "rgb(255, 154, 91)",
       "size": 1
     },
     {
@@ -22886,7 +23136,7 @@
       "target": "artistic research",
       "id": "9599",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -23046,7 +23296,7 @@
       "target": "knowledge transfer",
       "id": "9414",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -23278,7 +23528,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7727",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -23398,7 +23648,7 @@
       "target": "Torsten Hölscher",
       "id": "7771",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -23678,7 +23928,7 @@
       "target": "Sebastian Zimmermann",
       "id": "7769",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -23958,7 +24208,7 @@
       "target": "knowledge transfer",
       "id": "9234",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -24086,7 +24336,7 @@
       "target": "artistic research",
       "id": "9452",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -24262,7 +24512,7 @@
       "target": "knowledge transfer",
       "id": "9228",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -24422,7 +24672,7 @@
       "target": "knowledge transfer",
       "id": "9474",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -24566,7 +24816,7 @@
       "target": "law and governance",
       "id": "9238",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -24790,7 +25040,7 @@
       "target": "Dr. Leta Takele Menisa",
       "id": "7744",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -24830,7 +25080,7 @@
       "target": "law and governance",
       "id": "9552",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -24846,7 +25096,7 @@
       "target": "artistic research",
       "id": "9584",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -24878,7 +25128,7 @@
       "target": "Qian Xu",
       "id": "7740",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -25302,7 +25552,7 @@
       "target": "law and governance",
       "id": "9245",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -25614,7 +25864,7 @@
       "target": "knowledge transfer",
       "id": "9227",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -25662,7 +25912,7 @@
       "target": "Shixian Huang",
       "id": "7735",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -25862,7 +26112,7 @@
       "target": "knowledge transfer",
       "id": "9229",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -26486,7 +26736,7 @@
       "target": "Shixian Huang",
       "id": "7738",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -26846,7 +27096,7 @@
       "target": "Dr. Haojie Zhang",
       "id": "7730",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -27142,7 +27392,7 @@
       "target": "law and governance",
       "id": "9246",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -27342,7 +27592,7 @@
       "target": "law and governance",
       "id": "9485",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -27358,7 +27608,7 @@
       "target": "artistic research",
       "id": "9152",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -27846,7 +28096,7 @@
       "target": "knowledge transfer",
       "id": "9233",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -27998,7 +28248,7 @@
       "target": "multimodal research",
       "id": "9604",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -28262,7 +28512,7 @@
       "target": "Qian Xu",
       "id": "7742",
       "attributes": {},
-      "color": "rgb(175,208,239)",
+      "color": "rgb(138, 189, 237)",
       "size": 1
     },
     {
@@ -28398,7 +28648,7 @@
       "target": "knowledge transfer",
       "id": "9232",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(153, 206, 174)",
       "size": 1
     },
     {
@@ -28470,7 +28720,7 @@
       "target": "multimodal research",
       "id": "9453",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
@@ -28518,7 +28768,7 @@
       "target": "multimodal research",
       "id": "9518",
       "attributes": {},
-      "color": "rgb(244, 154, 90)",
+      "color": "rgb(170, 120, 191)",
       "size": 1
     },
     {
