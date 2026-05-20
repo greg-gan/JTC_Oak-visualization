@@ -41,7 +41,7 @@ const Graph = new ForceGraph3D(elem)
    })
    .nodeResolution([10])
    .onNodeClick(node => { // Aim at node from outside it
-   const distance = 120;
+   const distance = 140;
    const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
    const newPos = node.x || node.y || node.z
       ? {x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio}
